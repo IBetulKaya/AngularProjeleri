@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Example/example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Giris/my-first-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Harf/harf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Kartlar/kart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module/modcom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OrnekProje1/todo-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Password/password" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Routing/routing" vcs="Git" />
+  </component>
+</project>
